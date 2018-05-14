@@ -1,12 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Lucas-Kanade tracker
-====================
-
-Lucas-Kanade sparse optical flow demo. Uses goodFeaturesToTrack
-for track initialization and back-tracking for match verification
-between frames.
+Lucas-Kanade tracker included
 
 Usage
 -----
