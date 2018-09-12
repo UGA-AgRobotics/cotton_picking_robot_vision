@@ -9,3 +9,6 @@ Activities:
 2. Robot localization
 3. Auto steering and Auto Navigation
 4. Picking controller 
+
+For ensemble TiftTrack YOLO + Color Segmentation + Image Transformation for Tracking bolls
+boll_track.py [<video_source>]
