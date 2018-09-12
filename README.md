@@ -1,4 +1,4 @@
-# cottonpickingbot
+# cotton picking bot
 Cotton Picking Robot
 
 
