@@ -24,3 +24,9 @@ If Darkflow is running then copy this repo inside the darkflow folder and run th
 
 Please cite the paper:
 Fue, K. G., Porter, W. M., & Rains, G. C. (2018). Deep Learning based Real-time GPU-accelerated Tracking and Counting of Cotton Bolls under Field Conditions using a Moving Camera. ASABE Paper No. 1800831. St. Joseph, MI: ASABE.
+
+Get trained PB file and put it into graph_built folder at 
+https://drive.google.com/file/d/1DLZl6tM7imzD3_zWU9VgWTktoeG7lZYv/view?usp=sharing
+
+Watch youtube
+https://www.youtube.com/watch?v=GlsNp1MiIRU
