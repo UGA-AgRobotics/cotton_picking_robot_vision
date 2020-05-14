@@ -10,7 +10,7 @@ Activities:
 3. Auto steering and Auto Navigation
 4. Picking controller 
 
-For ensemble TiftTrack YOLO + Color Segmentation + Image Transformation for Tracking bolls
+For ensemble TiftTrack YOLOv2 + Color Segmentation + Image Transformation for Tracking bolls
 boll_track.py [<video_source>]
 
 
